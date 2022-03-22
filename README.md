@@ -16,6 +16,7 @@
 <h3> Dependencies</h3>
 <ul>
     <li>IDE capable of running Javascript, HTML, and CSS</li>
+    <li>Windows 10 or similar OS</li>
 </ul>
     
 <h3> Installing</h3>
