@@ -14,10 +14,9 @@
 <h2> Getting Started</h3>
     
 <h3> Dependencies</h3>
-    <ul>
-      <li>IDE capable of running Javascript, HTML, and CSS</li>
-      <li>Windows 10</li>
-    </ul>
+<ul>
+    <li>IDE capable of running Javascript, HTML, and CSS</li>
+</ul>
     
 <h3> Installing</h3>
 <ul>
