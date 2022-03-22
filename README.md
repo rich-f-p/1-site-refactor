@@ -11,7 +11,7 @@
   <li> Desciptive titles</li>
 </ul>
 
-<h3> Getting Started</h3>
+<h2> Getting Started</h3>
     
 <h3> Dependencies</h3>
     <ul>
@@ -20,9 +20,14 @@
     </ul>
     
 <h3> Installing</h3>
-
+<ul>
+    <li>Fork Repository</li>
+    <li>Clone the Repository in a directory</li>
+    <li>Open files in IDE of your choice</li>
+</ul>
 <h3> Executing Program </h3>
-    <ul>
-      <li>...</li>
-    </ul>
+<ul>
+    <li>Open the full file in IDE capable of running Javascript, HTML, and CSS</li>
+    <li>Open HTMl file in web browser to view</li>
+</ul>
     
