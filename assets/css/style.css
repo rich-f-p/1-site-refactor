@@ -47,11 +47,11 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* setting font size for paragraphs presented in article section */
 p {
     font-size: 16px;
 }
-
+/* setting specifications to cover image;by centering and size and including url to image */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,17 +60,17 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* images with the float-left class will be moved to the left with a margin of 25px */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* images with the float-right class will be moved to the right with a margin of 25px */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* article with the class of content will have the width, display, and margin set to below specifications. affecting what is inside article. */
 .content {
     width: 75%;
     display: inline-block;
