@@ -1,29 +1,31 @@
 * {
+    /* style changes made in universal selector, to change padding and margin to zero. also box-sizing changed. */
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
 body {
+    /* body background changed to specified color. */
     background-color: #d9dcd6;
 }
-
+/* general class header specifications of padding,font-family,background-color,and text color changes */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+ 
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* both top and bottom affect the h1 in class header. to result in font-size 48px, color, and display to inline-block */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* increaseing padding and margin while moving text to the right, font-family and font size changes. */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,16 +33,16 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* removing bulleted points */
 .header nav a {
     list-style-type: none;
 }
-
+/* setting text to inline and margin-left to 25px for changes to links */
 .header nav a {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* setting color for links and text-decorations to none. */
 a {
     color: #ffffff;
     text-decoration: none;
