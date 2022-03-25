@@ -103,7 +103,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.content-a {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,51 +111,18 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* style for article class online-reputation-management */
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* style for article class social-media-marketing */
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+
 /* setting height of img in article */
-.search-engine-optimization img {
+.content-a img {
     max-height: 200px;
 }
-/* setting height of img in article */
-.online-reputation-management img {
-    max-height: 200px;
-}
-/* setting height of img in article */
-.social-media-marketing img {
-    max-height: 200px;
-}
+
 /* style for header h2 in article */
-.search-engine-optimization h2 {
+.content-a h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* style for header h2 in article */
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* style for header h2 in article */
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+
 /* footer style for text */
 .footer {
     padding: 30px;
