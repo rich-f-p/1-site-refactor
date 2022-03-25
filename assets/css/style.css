@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* aside section class benefit-lead */
+/* aside section class benefit-s */
 .benefit-s {
     margin-bottom: 32px;
     color: #ffffff;
@@ -96,7 +96,7 @@ p {
     text-align: center;
 }
 
-/* aside section class benefit-lead img style */
+/* aside section class benefit-s img style */
 .benefit-s img {
     display: block;
     margin: 10px auto;
