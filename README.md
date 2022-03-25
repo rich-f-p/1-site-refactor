@@ -1,33 +1,46 @@
 # 1-site-refactor
 
-<h3> Description </h3>
-    <p> The purpose of this demo is to practice refactoring existing code to make it more accessible. By accessibilty we are refering to the capability of the website to use assistive technologies. From this we will integrate the said criteria listed below.    </p>
+## Description 
+   
+    The purpose of this project is to utilize refactoring in order to change existing code to make it more accessible. With that, only the code should be changed not the webpage itself. From this we will integrate the said criteria listed below. 
     
-<ul>
-  <li> Semantic HTML elements</li>
-  <li> Logical structure</li>
-  <li> Accesible alt attributes</li>
-  <li> Sequential order</li>
-  <li> Desciptive titles</li>
-</ul>
 
-<h2> Getting Started</h3>
+* Semantic HTML elements
+* Logical structure
+* Accesible alt attributes
+* Sequential order
+* Desciptive titles
+
+
+## Getting Started
     
-<h3> Dependencies</h3>
-<ul>
-    <li>IDE capable of running Javascript, HTML, and CSS</li>
-    <li>Windows 10 or similar OS</li>
-</ul>
+### Dependencies
+
+* IDE capable of running Javascript, HTML, and CSS
+* Windows 10 or similar OS
+
     
-<h3> Installing</h3>
-<ul>
-    <li>Fork Repository</li>
-    <li>Clone the Repository in a directory</li>
-    <li>Open files in IDE of your choice</li>
-</ul>
-<h3> Executing Program </h3>
-<ul>
-    <li>Open the full file in IDE capable of running Javascript, HTML, and CSS</li>
-    <li>Open HTMl file in web browser to view</li>
-</ul>
+### Installing
+
+* Fork Repository
+* Clone the Repository in a directory
+* Open files in IDE of your choice
+
+### Executing Program 
+
+* Open the full file in IDE capable of running Javascript, HTML, and CSS
+* Open HTMl file in web browser to view
+* (choice to make changes or review code)
+
+### Links
+https://rich-f-p.github.io/1-site-refactor/
     
+### Credits
+
+* 2019 Horiseon Social Solution Services, Inc.
+* UCB CB
+
+
+example of what should be seen when html in opened:
+
+<img src="./assets/images/screenshot.png" alt="screenshot example"/>
